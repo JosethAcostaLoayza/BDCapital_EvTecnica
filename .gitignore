@@ -1,0 +1,29 @@
+# Visual Studio
+.vs/
+*.user
+*.suo
+
+# Build results
+bin/
+obj/
+Debug/
+Release/
+
+# Paquetes NuGet
+packages/
+*.nupkg
+*.snupkg
+
+# Archivos de publicación
+publish/
+*.Publish.xml
+
+# Archivos temporales
+*.tmp
+*.log
+*.bak
+
+# Otros innecesarios
+*.dbmdl
+*.mdf
+*.ldf
